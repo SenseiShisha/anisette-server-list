@@ -1,1 +1,1 @@
-# SenseiShisha.github.io
+# Custom anisette server list for SideStore
