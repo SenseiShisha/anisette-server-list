@@ -53,8 +53,12 @@
       "address": "https://anisette-v3-server-0xui.onrender.com"
     },
     {
-      "name": "shishaserver",
+      "name": "anisette-local",
       "address": "http://192.168.178.16:6969"
+    },
+    {
+      "name": "shishaserver",
+      "address": "https://shishaserver.route64.de"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
