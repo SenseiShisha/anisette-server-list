@@ -58,7 +58,7 @@
     },
     {
       "name": "shishaserver",
-      "address": "https://shishaserver.route64.de"
+      "address": "https://ani.route64.de"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
